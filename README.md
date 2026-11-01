@@ -1,4 +1,4 @@
-# Hi, I'm Guru 👋
+# Hi, I'm Gurucharan Shetty 👋
 
 ### QA Automation Engineer | Python | Playwright | Pytest
 
